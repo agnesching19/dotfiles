@@ -1,16 +1,33 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"SCSS"
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Achievement",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Babel",
+		"BracketHighlighter",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"Package Control",
+		"SCSS"
+	]
 }
